@@ -1,7 +1,11 @@
 # CTF Cheatsheets
 
 ## Enumeration
+
 - https://hkh4cks.com/blog/2017/12/30/linux-enumeration-cheatsheet/
+
+## File Inclusion/traversal attacks
+- https://tipstrickshack.blogspot.com/2013/02/how-to-bypassing-filter-to-traversal_8831.html
 
 ## Privilege escalation
 
@@ -12,5 +16,8 @@
 
 - [http://www.securityidiots.com/Web-Pentest/SQL-Injection/](http://www.securityidiots.com/Web-Pentest/SQL-Injection/)
 
-## File Inclusion/traversal attacks
-- https://tipstrickshack.blogspot.com/2013/02/how-to-bypassing-filter-to-traversal_8831.html
+## Other Complete Pentest Cheatsheets 
+
+- https://anhtai.me/pentesting-cheatsheet/
+- https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/
+- https://hausec.com/pentesting-cheatsheet/
