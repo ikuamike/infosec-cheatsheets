@@ -5,12 +5,23 @@
 - https://hkh4cks.com/blog/2017/12/30/linux-enumeration-cheatsheet/
 
 ## File Inclusion/traversal attacks
+
 - https://tipstrickshack.blogspot.com/2013/02/how-to-bypassing-filter-to-traversal_8831.html
+
+## Limited Shells
+
+- https://fireshellsecurity.team/restricted-linux-shell-escaping-techniques/
 
 ## Privilege escalation
 
-- [Linux Privilege Escalation (g0tmi1k)](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
-- [Windows Privilege Escalation (fuzzysecurity)](http://www.fuzzysecurity.com/tutorials/16.html)
+  - ### Linux Privilege Escalation
+
+    - https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
+    - https://nxnjz.net/2018/08/an-interesting-privilege-escalation-vector-getcap/
+    
+  - ### Windows Privilege Escalation
+
+    - http://www.fuzzysecurity.com/tutorials/16.html
 
 ## SQL Injection
 
