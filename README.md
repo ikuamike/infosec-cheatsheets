@@ -12,5 +12,5 @@
 
 - [http://www.securityidiots.com/Web-Pentest/SQL-Injection/](http://www.securityidiots.com/Web-Pentest/SQL-Injection/)
 
-## Local file inclusion/traversal attacks
+## File Inclusion/traversal attacks
 - https://tipstrickshack.blogspot.com/2013/02/how-to-bypassing-filter-to-traversal_8831.html
