@@ -11,6 +11,7 @@
 ## Limited Shells
 
 - https://fireshellsecurity.team/restricted-linux-shell-escaping-techniques/
+- https://blog.ropnop.com/upgrading-simple-shells-to-fully-interactive-ttys/
 
 ## Privilege escalation
 
