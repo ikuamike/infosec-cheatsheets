@@ -18,6 +18,7 @@
 
     - https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
     - https://nxnjz.net/2018/08/an-interesting-privilege-escalation-vector-getcap/
+    - https://payatu.com/guide-linux-privilege-escalation/
     
   - ### Windows Privilege Escalation
 
