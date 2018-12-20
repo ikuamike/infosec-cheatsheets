@@ -8,13 +8,19 @@
 
 - https://tipstrickshack.blogspot.com/2013/02/how-to-bypassing-filter-to-traversal_8831.html
 
+## Full Interactive tty shell
+
+- https://blog.ropnop.com/upgrading-simple-shells-to-fully-interactive-ttys/
+- https://netsec.ws/?p=337
+
 ## Limited Shells
 
 - https://fireshellsecurity.team/restricted-linux-shell-escaping-techniques/
 
-## Full Interactive tty shell
-- https://blog.ropnop.com/upgrading-simple-shells-to-fully-interactive-ttys/
-- https://netsec.ws/?p=337
+## Nmap scans
+
+- https://medium.com/@infosecsanyam/nmap-cheat-sheet-nmap-scanning-types-scanning-commands-nse-scripts-868a7bd7f692
+- https://hackertarget.com/nmap-tutorial/
 
 ## Privilege escalation
 
