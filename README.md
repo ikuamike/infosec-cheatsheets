@@ -37,6 +37,9 @@
     - https://medium.com/@rahmatnurfauzi/windows-privilege-escalation-scripts-techniques-30fa37bd194
     - https://www.absolomb.com/2018-01-26-Windows-Privilege-Escalation-Guide/
 
+## Reverse Shells
+  - https://highon.coffee/blog/reverse-shell-cheat-sheet/
+  - http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet
 ## SQL Injection
 
 - https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/
