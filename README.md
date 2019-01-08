@@ -31,6 +31,7 @@
     - https://nxnjz.net/2018/08/an-interesting-privilege-escalation-vector-getcap/
     - https://payatu.com/guide-linux-privilege-escalation/
     - https://securism.wordpress.com/oscp-notes-privilege-escalation-linux/
+    - https://www.hackingarticles.in/linux-privilege-escalation-via-automated-script/
     
   - ### Windows Privilege Escalation
 
@@ -41,6 +42,7 @@
 ## Reverse Shells
   - https://highon.coffee/blog/reverse-shell-cheat-sheet/
   - http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet
+  
 ## SQL Injection
 
 - https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/
