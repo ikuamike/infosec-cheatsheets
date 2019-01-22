@@ -28,6 +28,7 @@
 
     - https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
     - https://www.hackingarticles.in/linux-privilege-escalation-using-suid-binaries/
+    - https://dl.packetstormsecurity.net/papers/attack/exploiting_capabilities_the_dark_side.pdf
     - https://nxnjz.net/2018/08/an-interesting-privilege-escalation-vector-getcap/
     - https://payatu.com/guide-linux-privilege-escalation/
     - https://securism.wordpress.com/oscp-notes-privilege-escalation-linux/
