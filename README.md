@@ -1,4 +1,4 @@
-# CTF Cheatsheets
+# InfoSec Cheatsheets
 
 ## Enumeration
 
