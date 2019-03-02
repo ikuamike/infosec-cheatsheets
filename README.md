@@ -39,6 +39,7 @@
     - http://www.fuzzysecurity.com/tutorials/16.html
     - https://medium.com/@rahmatnurfauzi/windows-privilege-escalation-scripts-techniques-30fa37bd194
     - https://www.absolomb.com/2018-01-26-Windows-Privilege-Escalation-Guide/
+    - https://www.joshruppe.com/basic-windows-enumeration/
 
 ## Reverse Shells
   - https://highon.coffee/blog/reverse-shell-cheat-sheet/
