@@ -56,3 +56,4 @@
 - https://anhtai.me/pentesting-cheatsheet/
 - https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/
 - https://hausec.com/pentesting-cheatsheet/
+- http://0xc0ffee.io/blog/OSCP-Goldmine
