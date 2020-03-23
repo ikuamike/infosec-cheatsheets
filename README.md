@@ -54,6 +54,7 @@
 - https://github.com/kahla-sec/CTF-Writeups/tree/master/Securinets%20Prequals%202k20/The%20after-Prequal
 - https://www.perspectiverisk.com/mysql-sql-injection-practical-cheat-sheet/
 - https://blog.redforce.io/sql-injection-in-insert-update-query-without-comma/
+- https://github.com/kratel/ctf_writeups/tree/master/securinets_2k20_prequals/web/the_after_prequal
 
 ## Other Complete Pentest Cheatsheets 
 
