@@ -50,6 +50,9 @@
 
 - https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/
 - [http://www.securityidiots.com/Web-Pentest/SQL-Injection/](http://www.securityidiots.com/Web-Pentest/SQL-Injection/)
+- http://zoczus.blogspot.com/2013/03/sql-injection-without-comma-char.html
+- https://github.com/kahla-sec/CTF-Writeups/tree/master/Securinets%20Prequals%202k20/The%20after-Prequal
+- https://www.perspectiverisk.com/mysql-sql-injection-practical-cheat-sheet/
 
 ## Other Complete Pentest Cheatsheets 
 
