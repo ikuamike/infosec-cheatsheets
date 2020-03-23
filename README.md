@@ -53,6 +53,7 @@
 - http://zoczus.blogspot.com/2013/03/sql-injection-without-comma-char.html
 - https://github.com/kahla-sec/CTF-Writeups/tree/master/Securinets%20Prequals%202k20/The%20after-Prequal
 - https://www.perspectiverisk.com/mysql-sql-injection-practical-cheat-sheet/
+- https://blog.redforce.io/sql-injection-in-insert-update-query-without-comma/
 
 ## Other Complete Pentest Cheatsheets 
 
